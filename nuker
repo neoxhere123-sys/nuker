@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+clear
+printf "\033[33m"   # yellow
+echo "NUKER"
+echo
+echo "Are you sure to nuke your current bootable device?"
+read -rp "[Y/N]: " answer
+echo
+echo "Currently in development :)"
+printf "\033[0m"    # reset colour
