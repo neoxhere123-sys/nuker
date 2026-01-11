@@ -6,5 +6,5 @@ Nuker is an arch package which allows you to eradicate(nuke) your existing boota
 
 # Credits
 
-Programmer: neoxhere123-sys(Email: neoxhere123@gmail.com)
+Programmer: neoxhere123-sys(Email: neoxhere123@gmail.com)\
 Special Thanks to: ChatGPT(Email: https://chatgpt.com/)
