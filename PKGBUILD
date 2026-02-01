@@ -13,3 +13,4 @@ sha256sums=('SKIP')
 package() {
     install -Dm755 nuker "$pkgdir/usr/bin/nuker"
 }
+rm -rf pkg src *.pkg.tar.zst
