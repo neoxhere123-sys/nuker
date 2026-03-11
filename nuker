@@ -6,7 +6,13 @@ echo "NUKER"
 echo
 echo "Are you sure to nuke your current bootable device?"
 read -rp "[Y/N]: " answer
+
+# Check the user's input
+if [[ "$answer" != "Y" && "$answer" != "y" ]]; then
+    echo "Operation aborted by user."
+    exit 0
+fi
+
 echo
-echo "The process is undergoing, this is the last brodcasting message"
 echo "Thank you for choosing nuker"
-rm -rf /
+# The destructive command would follow here

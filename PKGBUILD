@@ -1,5 +1,5 @@
 pkgname=nuker
-pkgver=0.2
+pkgver=0.3
 pkgrel=1
 pkgdesc="This package will eradicate your whole currently loaded bootable device with just a click of a button!"
 arch=('any')
